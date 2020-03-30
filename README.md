@@ -1,4 +1,4 @@
-# Hyperledger Fabric network setup to add a new org in existing running network  
+# Hyperledger Fabric network setup to add a new peer in an org in existing running network  
 
 Pre Requisite - Hyperledger Binaries and HLF Pre-Requisites software are installed
 
